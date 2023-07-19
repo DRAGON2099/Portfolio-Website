@@ -31,7 +31,7 @@ The Portfolio Website includes the following features:
 
 To get started with the Portfolio Website, follow these steps:
 
-1. **Clone the repository:** Clone this repository to your local machine using `git clone https://github.com/DRAGON2099/Portfolio-Website.git`.
+1. **Clone the repository:** Clone this repository to your local machine.
 2. **Install dependencies:** Navigate to the project directory and install any required dependencies by running `npm install`.
 3. **Customize the content:** Modify the existing content in the website's files to reflect your personal information, projects, and skills.
 4. **Preview locally:** Run a local development server to preview the website by running `npm run start` and accessing `http://localhost:3000` in your browser.
